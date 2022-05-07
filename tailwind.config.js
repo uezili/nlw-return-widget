@@ -3,11 +3,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        brand:{
+        brand: {
           500: "#8257e6",
-        }
-      }
+        },
+      },
     },
   },
   plugins: [],
-}
+};
